@@ -1,0 +1,13 @@
+NotesApplication/About.java
+ NotesApplication.About
+ NotesApplication.About$AboutHandler
+NotesApplication/SliderSize.java
+ NotesApplication.SliderSize
+ NotesApplication.SliderSize$1
+NotesApplication/NotesFrame.java
+ NotesApplication.NotesFrame
+ NotesApplication.NotesFrame$NotesHandler
+NotesApplication/Main.java
+ NotesApplication.Main
+NotesApplication/EditText.java
+ NotesApplication.EditText
